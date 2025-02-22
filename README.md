@@ -1,6 +1,6 @@
 # Hello there; welcome 👋🏾
 
-[AltSchool Badge] [Emmanuella linkedln](https://www.linkedin.com/in/emmanuella-bala-33b91723b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app) [Emmanuella Twitter](https://x.com/ella__bala?s=21)
+[Emmanuella linkedln](https://www.linkedin.com/in/emmanuella-bala-33b91723b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app) [Emmanuella Twitter](https://x.com/ella__bala?s=21)
 
 
 
