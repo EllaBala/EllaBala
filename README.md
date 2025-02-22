@@ -4,7 +4,7 @@
 
 
 
-I'm an Altschooler from School of engineering, currently studying to be a cloud engineer. I'm passionate about sharing knowledge, documentation, web engineering, Jamstack, headless commerce, and others. 
+I'm an Altschooler from School of engineering, currently studying to be a cloud engineer. I'm passionate about sharing knowledge, documentation, networking, learning, research, and others. 
 
 **Here's a quick summary about me**:
 
