@@ -1,6 +1,6 @@
 # Hello there; welcome 👋🏾
 
-[![AltSchool Badge] [![Linkedin Badge]https://www.linkedin.com/in/emmanuella-bala-33b91723b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app] (https://www.linkedin.com/in/emmanuella-bala) [![Twitter Badge] https://x.com/ella__bala?s=21] (https://x.com/ella__bala?s=21)
+[![AltSchool Badge] [Linkedin Badge] (https://www.linkedin.com/in/emmanuella-bala-33b91723b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)(https://www.linkedin.com/in/emmanuella-bala) [Twitter Badge] (https://x.com/ella__bala?s=21) (https://x.com/ella__bala?s=21)
 )
 
 
